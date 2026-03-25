@@ -30,6 +30,20 @@ Blist is a personal book list tracker that runs entirely on Google Apps Script. 
 - **Mobile-first** — designed for phones, works everywhere
 - **Multi-user** — each person gets their own sheet automatically
 
+## Screenshots
+
+| Dashboard | Card View | List View | List View |
+|-----------|-----------|-----------|-----------|
+| ![Dashboard](screenshots/dashboard.jpg) | ![Cards](screenshots/card.jpg) | ![List](screenshots/list.jpg) | ![Swipe](screenshots/swipe.jpg) |
+
+| Search  | Add Book | iOS Widget |
+|---------|----------|------------|
+| ![Search](screenshots/add.jpg) | ![Add](screenshots/manual.jpg) | ![Widget](screenshots/widget.jpg) | 
+
+## Demo
+
+▶️ [Watch the full demo on YouTube](https://youtube.com/shorts/5FwXZO_KMAE?feature=share)
+
 ### Data Model
 
 Your books live in a `Blist_Books` tab with these columns:
