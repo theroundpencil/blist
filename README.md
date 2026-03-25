@@ -84,6 +84,10 @@ Your books live in a `Blist_Books` tab with these columns:
 6. **Authorize** when prompted (review permissions → Allow)
 7. Copy the **Web app URL** — that's your Blist!
 
+> **💡 Important:** For all future updates, always use **Deploy → Manage deployments → ✏️ Edit** instead of creating a new deployment. This keeps your URL the same — so your home screen shortcut, bookmarks, and widget all keep working.
+
+> **💡 Optional:** The Apps Script URL is long and hard to remember. You can shorten it with [Bitly](https://bitly.com), [TinyURL](https://tinyurl.com), or any URL shortener to get something like `bit.ly/myblist` — easier to type on your phone and nicer to share.
+
 ### Step 4: Open & Use
 
 - Open the URL in your phone browser
@@ -151,7 +155,7 @@ After making code changes:
 2. Change Version to **New version**
 3. Click **Deploy**
 
-Your URL stays the same — bookmarks and home screen shortcuts keep working.
+⚠️ **Do not** click "New deployment" — that creates a different URL. Always edit the existing deployment so your URL stays the same.
 
 ---
 
