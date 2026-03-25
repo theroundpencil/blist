@@ -42,7 +42,7 @@ Blist is a personal book list tracker that runs entirely on Google Apps Script. 
 
 ## Demo
 
-▶️ [Watch the full demo on YouTube](https://youtube.com/shorts/5FwXZO_KMAE?feature=share)
+[![Watch the demo](https://img.youtube.com/vi/5FwXZO_KMAE/maxresdefault.jpg)](https://youtube.com/shorts/5FwXZO_KMAE)
 
 ### Data Model
 
